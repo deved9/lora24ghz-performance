@@ -1,0 +1,6 @@
+        Local Tx Count  Local Rx Count  Peer Tx Count  Peer Rx Count
+251710          251711          251226         251733         251696
+
+Calculated packet error rates:
+    Downlink PER:	0.005959215131634554 %
+    Uplink PER:		0.20140386838436442 %

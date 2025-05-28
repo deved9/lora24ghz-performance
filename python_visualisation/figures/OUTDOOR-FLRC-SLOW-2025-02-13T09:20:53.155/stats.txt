@@ -1,0 +1,6 @@
+         Local Tx Count  Local Rx Count  Peer Tx Count  Peer Rx Count
+2345757         2322533         2011069        2177837        2177837
+
+Calculated packet error rates:
+    Downlink PER:	6.230094470132396 %
+    Uplink PER:		7.657506048432461 %

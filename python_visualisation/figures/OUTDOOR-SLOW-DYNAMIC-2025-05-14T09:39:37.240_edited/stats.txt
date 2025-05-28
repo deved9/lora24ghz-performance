@@ -1,0 +1,6 @@
+      Local Tx Count  Local Rx Count  Peer Tx Count  Peer Rx Count
+5230            5180            5170           5173           5173
+
+Calculated packet error rates:
+    Downlink PER:	0.13513513513513375 %
+    Uplink PER:		0.057993427411562326 %
