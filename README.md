@@ -119,8 +119,3 @@ LoRa24GHz-Performance/
 │   └── figures/
 └── README.md                   # This file
 ```
-
-
-lora24ghz-performance
-
-LoRa in the RF band 2.4 GHz – A performance study of LoRa communication in different transmission conditions
